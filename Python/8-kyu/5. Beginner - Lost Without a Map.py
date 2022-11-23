@@ -1,2 +1,1 @@
-def maps (a):
-    return [i * 2 for i in a]
+def maps (a): return [i * 2 for i in a]
