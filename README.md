@@ -1,6 +1,7 @@
 # CodeWars solutions
-Solutions for CodeWars problems on programming languages
+Solutions for CodeWars problems on programming languages.
 # Programming languages:
 
 - Python
 - C++
+- Java
